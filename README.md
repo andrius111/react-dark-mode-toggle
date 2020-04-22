@@ -1,6 +1,6 @@
 ## react-dark-mode-toggle
 
-A simple example of an theme switcher using react and styled-components.
+A simple example of a theme switcher using react and styled-components.
 
 I built this app following the Maks Akymenko tutorial, that can be accessed here: https://css-tricks.com/a-dark-mode-toggle-with-react-and-themeprovider/
 
